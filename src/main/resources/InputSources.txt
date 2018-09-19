@@ -1,0 +1,4 @@
+Ikea;Out;Eventual
+Aldi;Out;DiaDia
+Firma.com;In;DiaDia
+Dm;Out;DiaDia

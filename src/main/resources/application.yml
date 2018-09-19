@@ -1,0 +1,12 @@
+
+hibernate:
+ dialect: org.hibernate.dialect.MySQLDialect
+ show_sql: false
+ format_sql: true
+ hbm2ddl.auto: update
+
+jdbc:
+ driverClassName: org.hsqldb.jdbcDriver
+ url: jdbc:hsqldb:file:target/testdb;shutdown=true
+ username: sa
+# password: app
